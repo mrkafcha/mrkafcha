@@ -2,7 +2,7 @@ Hi, my name is Aleksei 👋
 =============
 
 ### Skills  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,nuxtjs,vite,react,redux,webpack,wordpress,git,jest,jquery,figma&perline=6)](https://skillicons.dev)
+ 
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -23,6 +23,7 @@ Hi, my name is Aleksei 👋
 
 <!--
 **mrkafcha/mrkafcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,nuxtjs,vite,react,redux,webpack,wordpress,git,jest,jquery,figma&perline=6)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
