@@ -1,5 +1,5 @@
-Hi, my name is Aleksei 👋
-=============
+# Hi, my name is Aleksei 👋
+
 
 ### Skills  
 
@@ -13,6 +13,24 @@ Hi, my name is Aleksei 👋
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
 </p>
+
+### My projects
+
+* [Brain Games](https://github.com/mrkafcha/Brain-Games)
+
+  _Brain Games is a set of five console games based on the principle of popular mobile brain—boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it   is considered that the game is over. Incorrect answers end the game and offer to go through it again._
+  
+* [File Difference Calculator](https://github.com/mrkafcha/File-Difference-Calculator)
+
+  _CLI is a utility for determining the differences between two files with support for flat and tree-like data structures from json and yaml files, as well as with the possibility of various output formats._
+
+* [RSS-Aggregator](https://github.com/mrkafcha/RSS-aggregator)
+  
+  _This is a service for aggregating RSS feeds, with which you can read a variety of sources, for example, blogs. It allows you to add an unlimited number of RSS feeds, updates them itself and adds new    entries to the general feed._
+  
+* [Slack Chat](https://github.com/mrkafcha/Slack-Chat)
+
+  _Hexlet-chat is a simple chat application that allows users to communicate with each other._
   
   
   
