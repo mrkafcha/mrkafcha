@@ -19,7 +19,7 @@
 * [Brain Games](https://github.com/mrkafcha/Brain-Games)
 
   _Brain Games — это набор из пяти консольных игр, основанных на принципе популярных мобильных приложений для развития мозга. В каждой игре задаются вопросы, на которые нужно ответить правильно. После трех правильных ответов считается, что игра окончена. Неправильные ответы завершают игру и предлагают пройти ее заново.
-  (Brain Games is a set of five console games based on the principle of popular mobile brain—boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it   is considered that the game is over. Incorrect answers end the game and offer to go through it again.)_
+  <br>(Brain Games is a set of five console games based on the principle of popular mobile brain—boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it   is considered that the game is over. Incorrect answers end the game and offer to go through it again.)_
   
 * [File Difference Calculator](https://github.com/mrkafcha/File-Difference-Calculator)
 
